@@ -1,0 +1,16 @@
+{
+  "CallLogTitle": "Registros de Llamadas",
+  "CallerHeader": "Número del Llamante",
+  "ReceiverHeader": "Número del Receptor",
+  "StartTimeHeader": "Hora de Inicio",
+  "EndTimeHeader": "Hora de Finalización",
+  "AgentNameHeader": "Nombre del Agente",
+  "StatusHeader": "Estado",
+  "RefreshButton": "Actualizar Registros",
+  "FetchErrorMsg": "Error al obtener los registros de llamadas. Por favor, inténtelo de nuevo más tarde.",
+  "NoLogsMsg": "No hay registros de llamadas disponibles en este momento.",
+  "LogDetailsTitle": "Detalles del Registro",
+  "DurationLabel": "Duración",
+  "CallTypeLabel": "Tipo de Llamada",
+  "RefreshLogsNotification": "Registros actualizados con éxito."
+}
